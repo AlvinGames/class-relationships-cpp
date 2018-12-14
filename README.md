@@ -1,5 +1,3 @@
-class-relationships-cpp
-
 ## C++ Class Relationships
 
 * [Generalization]
