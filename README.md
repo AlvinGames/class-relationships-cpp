@@ -1,18 +1,18 @@
 ## C++ Class Relationships
 
-* [Generalization]
-* [Binary Association]
-* [N-ary Association]
-* [Aggregation]
-* [Composition]
-* [Addiction]
-* [Implementation]
+* [Generalization] (Обобщение)
+* [Binary Association] (Бинарная ассоциация)
+* [N-ary Association] (N-арная ассоциация)
+* [Aggregation] (Агрегация)
+* [Composition] (Композиция)
+* [Addiction] (Зависимость)
+* [Implementation] (Реализация)
 
-### Other Languages
+### References
 
-* [Class Relationships in Java]
+* [Class Relationships]
 
-[Class Relationships in Java]: https://habr.com/post/150041/
+[Class Relationships]: https://habr.com/post/150041/
 
 [Generalization]: https://github.com/AlvinGames/class-relationships-cpp/tree/master/1%20Generalization
 [Binary Association]: https://github.com/AlvinGames/class-relationships-cpp/tree/master/2%20Binary%20Association
