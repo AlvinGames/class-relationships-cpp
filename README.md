@@ -8,6 +8,8 @@
 * [Addiction] (Зависимость)
 * [Implementation] (Реализация)
 
+![Class relationship](class-relationship.png)
+
 ### References
 
 * [Class Relationships]
